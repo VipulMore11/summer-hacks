@@ -10,7 +10,6 @@ The core innovation is combining **personal tracking** with **social competition
 
 ## Project Structure
 
-
 ```
 summer-hacks/
 ├── backend-service/    - Go API service
